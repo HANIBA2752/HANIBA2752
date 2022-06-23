@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Earth</h1>
-<h4 align="center">Computer Engineer Student</h4>
+<h4 align="center">Oomputer engineering student</h4>
 </div>
 
 <div align="center">
