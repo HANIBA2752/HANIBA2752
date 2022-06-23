@@ -28,18 +28,7 @@
       <a href="https://www.instagram.com/earth.wut_ti/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
       <br>
-  </p>
-  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/updated/1999AZZAR/1999AZZAR?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-     alt="updated" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/1999AZZAR/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
  </p>
 </div>
 </details>
