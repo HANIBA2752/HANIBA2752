@@ -17,7 +17,7 @@
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.facebook.com/profile.php?id=100002190974853" target="blank"><img align="center"
+      <a href="" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="HANIBA" height="30"/></a>
       <a href="https://wuttipat2004@gmail.com" target="blank"><img align="center"
@@ -25,7 +25,7 @@
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://www.instagram.com/earth.wut_ti/" target="blank"><img align="center"
+      <a href="" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
